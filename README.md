@@ -20,7 +20,7 @@ Mis soluciones a los retos de <a href="https://codember.dev/">codember 2023</a> 
 
 | Secreto   |                                   Pistas...                                   |
 | :-------: | :---------------------------------------------------------------------------: |
-| 01        | Imagen en `./data/` <br> ¿No sabes quien es? <br> Es un CEO muy reconocido    |
+| 01        | Imagen en `./data/` <br> ¿No sabes quien es? Es un CEO muy reconocido    |
 | 02        | Tienes un correo. (No en tu correo literal) Me pregunto si habrá un comando para abrirlo|
-| 03        | Tal vez eres muy joven pero recuerdas el kanomi code?                         |
+| 03        | Tal vez eres muy joven pero ¿Recuerdas el kanomi code?                         |
 

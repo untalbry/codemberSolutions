@@ -30,7 +30,8 @@ score - Muestra tu puntuación en los retos
 #### Tabla de retos 
 | Challenge   |                                   Solución                                   |
 | :---------: | :----------------------------------------------------------------------------: |
-| 01          | El espía y sus mensajes : <a href="https://github.com/xVrzBx/codemberSolutions/blob/main/CHALLENGE_01/challenge01.java">Solución en Java</a>
+| 01          | El espía y sus mensajes : <a href="https://github.com/xVrzBx/codemberSolutions/blob/main/CHALLENGE_01/challenge01.java">Solución en Java</a> |
+| 02          | El espía con sus operaciones básicas : <a href ="https://github.com/xVrzBx/codemberSolutions/tree/main/CHALLENGE_02">Solución en Java </a> |
 
 #### Tabla de secretos 
 
@@ -39,4 +40,6 @@ score - Muestra tu puntuación en los retos
 | 01        | Imagen en `./data/` <br> ¿No sabes quien es? Es un CEO muy reconocido    |
 | 02        | Tienes un correo. (No en tu correo literal) Me pregunto si habrá un comando para abrirlo|
 | 03        | Tal vez eres muy joven pero ¿Recuerdas el kanomi code?                         |
-
+| 04        | Revisa de nuevo tu correo                                                     |
+| 05        | Solo di la palabra más famosa en la mágia                                     |
+| 06        | A lanzar confetti a lo desgraciado                                             |

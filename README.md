@@ -44,4 +44,4 @@ score - Muestra tu puntuación en los retos
 | 05        | Solo di la palabra más famosa en la mágia                                     |
 | 06        | A lanzar `confetti` a lo desgraciado                                             |
 
-> Para checar los correos utiliza el comando mail
+> Para checar los correos utiliza el comando `mail`

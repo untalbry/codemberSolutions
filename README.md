@@ -38,8 +38,10 @@ score - Muestra tu puntuación en los retos
 | Secreto   |                                   Pistas...                                   |
 | :-------: | :---------------------------------------------------------------------------: |
 | 01        | Imagen en `./data/` <br> ¿No sabes quien es? Es un CEO muy reconocido    |
-| 02        | Tienes un correo. (No en tu correo literal) Me pregunto si habrá un comando para abrirlo|
+| 02        | Usa el comando `cal`. El formato para la fecha es `YYYY-MM-DD` |
 | 03        | Tal vez eres muy joven pero ¿Recuerdas el kanomi code?                         |
-| 04        | Revisa de nuevo tu correo                                                     |
+| 04        | Adivina, es lo primero que se enseña al aprender web                     |
 | 05        | Solo di la palabra más famosa en la mágia                                     |
-| 06        | A lanzar confetti a lo desgraciado                                             |
+| 06        | A lanzar `confetti` a lo desgraciado                                             |
+
+> Para checar los correos utiliza el comando mail

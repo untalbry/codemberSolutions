@@ -6,9 +6,11 @@
      \ \____\\ \____/\ \___,_\\ \____\\ \_\ \_\ \_\ \ \_,__/\ \____\ \ \_\
       \/____/ \/___/  \/__,_ / \/____/ \/_/\/_/\/_/  \/___/  \/____/  \/_/
 
-``` 
-<img align="rigth" src="https://img.shields.io/badge/14869860-passing?style=for-the-badge&logo=github&label=SCORE&labelColor=%2319241f&color=%23cab339
-">
+```
+<div>
+  <img src="https://img.shields.io/badge/14869860-passing?style=for-the-badge&logo=github&label=SCORE&labelColor=%2319241f&color=%23cab339">
+</div>
+
 
 <h1 align="center">Codember 2023</h1> 
 <h3 align="center">¿Puedes superar los retos de programación?</h3>

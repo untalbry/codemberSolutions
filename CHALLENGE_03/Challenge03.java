@@ -40,8 +40,7 @@ public class Challenge03 {
                 return parts[1];
 
         }
-        throw new NotKeyNumberFoundException(
-                "No hay " + positionKey + " numero de claves invalidas\nSolo hay " + clavesInvalidas);
+        throw new NotKeyNumberFoundException("No hay " + positionKey + " numero de claves invalidas\nSolo hay " + clavesInvalidas);
 
     }
 

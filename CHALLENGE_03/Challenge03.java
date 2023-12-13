@@ -9,7 +9,7 @@ public class Challenge03 {
     public static void main(String[] args) {
         final String FILE_DIR = "CHALLENGE_03/encryption_policies.txt";
         try {
-            System.out.println(getInvalidKey(FILE_DIR, 42));
+            System.out.println(getInvalidKey(FILE_DIR, 13));
         } catch (IOException | NotKeyNumberFoundException e) {
             e.printStackTrace();
         }

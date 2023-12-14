@@ -8,7 +8,7 @@
 
 ```
 <div>
-  <img src="https://img.shields.io/badge/14869860-passing?style=for-the-badge&logo=github&label=SCORE&labelColor=%2319241f&color=%23cab339">
+  <img src="https://img.shields.io/badge/14870860-passing?style=for-the-badge&logo=github&label=SCORE&labelColor=%2319241f&color=%23cab339">
 </div>
 
 

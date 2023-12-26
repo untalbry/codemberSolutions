@@ -11,8 +11,7 @@
   <img src="https://img.shields.io/badge/14870860-passing?style=for-the-badge&logo=github&label=SCORE&labelColor=%2319241f&color=%23cab339">
   <img src="https://img.shields.io/badge/Position-381-blue?style=for-the-badge&logo=github&labelColor=%2319241f&color=%23cab339">
   <img src= "https://img.shields.io/badge/Retos-5%2F5-blue?style=for-the-badge&logo=github&labelColor=%2319241f&color=%23cab339">
-  <img src="https://img.shields.io/badge/Secretos-13%2F13-blue?style=for-the-badge&logo=github&labelColor=%2319241f&color=%23cab339
-">
+  <img src="https://img.shields.io/badge/Secretos-13%2F13-blue?style=for-the-badge&logo=github&labelColor=%2319241f&color=%23cab339">
 </div>
 
 

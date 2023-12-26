@@ -36,20 +36,23 @@ score - Muestra tu puntuación en los retos
 > ¡Hay más comandos! Descúbrelos todos...
 
 #### Tabla de retos 
-| Challenge   |                                   Solución                                   |
-| :---------: | :----------------------------------------------------------------------------: |
+| Challenge   |                                   Solución                                                                                                   |
+| :---------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
 | 01          | El espía y sus mensajes : <a href="https://github.com/xVrzBx/codemberSolutions/blob/main/CHALLENGE_01/challenge01.java">Solución en Java</a> |
-| 02          | El espía con sus operaciones básicas : <a href ="https://github.com/xVrzBx/codemberSolutions/tree/main/CHALLENGE_02">Solución en Java </a> |
+| 02          | El espía con sus operaciones básicas : <a href ="https://github.com/xVrzBx/codemberSolutions/tree/main/CHALLENGE_02">Solución en Java </a>   |
+| 03          | El desafío de Cifrado Espía: <a href = "https://github.com/xVrzBx/codemberSolutions/tree/main/CHALLENGE_03">Solución en Java</a>             |
+| 04          | Hackers dañan sistema de archivos: <a href="https://github.com/xVrzBx/codemberSolutions/tree/main/CHALLENGE_04">Solución en Java </a>        |
+| 05          | El problema final: <a href ="https://github.com/xVrzBx/codemberSolutions/tree/main/CHALLENGE_05">Solución en Java</a>                        |
 
 #### Tabla de secretos 
 
 | Secreto   |                                   Pistas...                                   |
 | :-------: | :---------------------------------------------------------------------------: |
-| 01        | Imagen en `./data/` <br> ¿No sabes quien es? Es un CEO muy reconocido    |
-| 02        | Usa el comando `cal`. El formato para la fecha es `YYYY-MM-DD` |
-| 03        | Tal vez eres muy joven pero ¿Recuerdas el kanomi code?                         |
-| 04        | Adivina, es lo primero que se enseña al aprender web                     |
+| 01        | Imagen en `./data/` <br> ¿No sabes quien es? Es un CEO muy reconocido         |
+| 02        | Usa el comando `cal`. El formato para la fecha es `YYYY-MM-DD`                |
+| 03        | Tal vez eres muy joven pero ¿Recuerdas el kanomi code?                        |
+| 04        | Adivina, es lo primero que se enseña al aprender web                          |
 | 05        | Solo di la palabra más famosa en la mágia                                     |
-| 06        | A lanzar `confetti` a lo desgraciado                                             |
+| 06        | A lanzar `confetti` a lo desgraciado                                          |
 
 > Para checar los correos utiliza el comando `mail`

@@ -34,7 +34,7 @@ public class Challenge05 {
         String id = fields[0].trim();
         String userName = fields[1].trim();
         String mail = fields[2].trim();
-        String age = (fields.length > 3 && fields[3].equals("")) ? fields[3] . trim():"";
+        String age = (fields.length > 3 && fields[3].equals("")) ? fields[3].trim():"";
         String location = (fields.length > 4 && fields[4].equals("")) ? fields[4].trim() : "";
         if (id.equals("") || userName.equals("") || mail.equals(""))
             return false;

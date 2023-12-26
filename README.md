@@ -8,13 +8,13 @@
 
 ```
 <div>
-  <img src="https://img.shields.io/badge/14869860-passing?style=for-the-badge&logo=github&label=SCORE&labelColor=%2319241f&color=%23cab339">
+  <img src="https://img.shields.io/badge/14870860-passing?style=for-the-badge&logo=github&label=SCORE&labelColor=%2319241f&color=%23cab339">
 </div>
 
 
 <h1 align="center">Codember 2023</h1> 
 <h3 align="center">¿Puedes superar los retos de programación?</h3>
-Mis soluciones a los retos de <a href="https://codember.dev/">codember 2023</a> los realizaré en Java. Codember es un juego interactivo que pondrá a prueba tus conocimientos de programación en un entorno de simulación de terminal, que se realiza cada año en el mes de Noviembre, el cual consiste en resolver `chanlenges`
+Mis soluciones a los retos de <a href="https://codember.dev/">codember 2023</a> los realizaré en Java. Codember es un juego interactivo que pondrá a prueba tus conocimientos de programación en** un entorno de simulación de** terminal, que se realiza cada año en el mes de Noviembre, el cual consiste en resolver `chanlenges`
 
 #### Comandos  disponibles 
 ``` bash
